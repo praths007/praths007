@@ -1,12 +1,12 @@
 # Hi there, I'm Prathmesh! 👋
 
 ## About Me
-Welcome to my GitHub profile! I'm Prathmesh, a data enthusiast who loves turning data into actionable insights. With a background strong background in data science and computer engineering, I enjoy tackling complex problems and finding innovative solutions.
+Welcome to my GitHub profile! I'm Prathmesh, a data enthusiast who loves turning data into actionable insights. With a strong background in data science and computer engineering, I enjoy tackling complex problems and finding innovative solutions.
 
 - 🔭 Currently at Walmart Global Tech as a Senior Data Scientist
-- 🌱 Always learning, currently diving deeper into advanced machine learning and optimization
+- 🌱 Always learning, currently diving deeper into advanced machine learning, GenAI and optimization
 - 👯 Open to collaborating on exciting data science and machine learning projects
-- 💬 Feel free to ask me about Python, PySpark, R, SQL, and all things machine learning
+- 💬 Feel free to ask me about Python, MLOps, GenAI and all things machine learning
 - 📫 Reach me at: [prathmesh.savale@utexas.edu](mailto:prathmesh.savale@utexas.edu)
 - ⚡ Fun fact: I love video games
 
@@ -62,4 +62,3 @@ Coursework: Database Management Systems, Data Structures and Algorithms, Object 
 - [GitHub](https://github.com/praths007)
 - [LinkedIn](https://linkedin.com/in/prathmeshsavale)
 - [Personal Website](https://praths007.github.io)
-
