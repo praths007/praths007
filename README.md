@@ -1,23 +1,14 @@
 # Hi there, I'm Prathmesh Savale! 👋
 
 ## About Me
-I'm a dedicated data scientist with a strong background in business analytics and computer engineering. I have a passion for leveraging data to drive strategic decisions and improve operational efficiency.
+Welcome to my GitHub profile! I'm Prathmesh, a data enthusiast who loves turning data into actionable insights. With a background strong background in data science and computer engineering, I enjoy tackling complex problems and finding innovative solutions.
 
-- 🔭 I’m currently working at Walmart Global Tech as a Senior Data Scientist
-- 🌱 I’m currently learning advanced machine learning techniques and optimization
-- 👯 I’m looking to collaborate on data science and machine learning projects
-- 💬 Ask me about Python, PySpark, R, SQL, and machine learning
-- 📫 How to reach me: [prathmesh.savale@utexas.edu](mailto:prathmesh.savale@utexas.edu)
-- ⚡ Fun fact: I enjoy hiking and exploring new technologies
-
-## Education
-**The University of Texas at Austin**  
-Master of Science, Business Analytics, 3.7 GPA  
-Coursework: Advanced Machine Learning, Optimization, Deep Learning, Unstructured Data Analytics
-
-**University of Pune**  
-Bachelor of Engineering, Computer Engineering, First Class with Distinction, 3.8 GPA  
-Coursework: Database Management Systems, Data Structures and Algorithms, Object Oriented Programming
+- 🔭 Currently at Walmart Global Tech as a Senior Data Scientist
+- 🌱 Always learning, currently diving deeper into advanced machine learning and optimization
+- 👯 Open to collaborating on exciting data science and machine learning projects
+- 💬 Feel free to ask me about Python, PySpark, R, SQL, and all things machine learning
+- 📫 Reach me at: [prathmesh.savale@utexas.edu](mailto:prathmesh.savale@utexas.edu)
+- ⚡ Fun fact: I love video games
 
 ## Experience
 - Developed sales forecasting frameworks and causal discovery models
@@ -58,18 +49,17 @@ Coursework: Database Management Systems, Data Structures and Algorithms, Object 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-## GitHub Stats
-![Prathmesh Savale's GitHub stats](https://github-readme-stats.vercel.app/api?username=praths007&show_icons=true&theme=radical)
+## Education
+**The University of Texas at Austin**  
+Master of Science, Business Analytics, 3.7 GPA  
+Coursework: Advanced Machine Learning, Optimization, Deep Learning, Unstructured Data Analytics
+
+**University of Pune**  
+Bachelor of Engineering, Computer Engineering, First Class with Distinction, 3.8 GPA  
+Coursework: Database Management Systems, Data Structures and Algorithms, Object Oriented Programming
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praths007&layout=compact&theme=radical)
-
-## Projects
-### [Sales Forecasting Framework](https://github.com/praths007/sales-forecasting-framework)
-Developed at Sam’s Club AI Labs to improve financial and merchandising strategies.
-
-### [LLM-based Chatbot](https://github.com/praths007/llm-chatbot)
-A chatbot to complement KPI dashboard and provide CXO level insights.
 
 ## Connect with Me
 - [GitHub](https://github.com/praths007)
