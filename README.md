@@ -1,7 +1,7 @@
 # Hi there, I'm Prathmesh! 👋
 
 ## About Me
-Welcome to my GitHub profile! I'm Prathmesh, a data enthusiast who loves turning data into actionable insights. With a strong background in data science and computer engineering, I enjoy tackling complex problems and finding innovative solutions.
+Welcome to my GitHub profile! I'm a data enthusiast who loves turning data into actionable insights. With a strong background in data science and computer engineering, I enjoy tackling complex problems and finding innovative solutions.
 
 - 🔭 Currently at Walmart Global Tech as a Senior Data Scientist
 - 🌱 Always learning, currently diving deeper into advanced machine learning, GenAI and optimization
