@@ -58,13 +58,8 @@ Coursework: Advanced Machine Learning, Optimization, Deep Learning, Unstructured
 Bachelor of Engineering, Computer Engineering, First Class with Distinction, 3.8 GPA  
 Coursework: Database Management Systems, Data Structures and Algorithms, Object Oriented Programming
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praths007&layout=compact&theme=radical)
-
 ## Connect with Me
 - [GitHub](https://github.com/praths007)
 - [LinkedIn](https://linkedin.com/in/prathmeshsavale)
 - [Personal Website](https://praths007.github.io)
-
-Thanks for visiting my profile! Have a great day! 😊
 
