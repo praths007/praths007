@@ -1,4 +1,4 @@
-# Hi there, I'm Prathmesh Savale! 👋
+# Hi there, I'm Prathmesh! 👋
 
 ## About Me
 Welcome to my GitHub profile! I'm Prathmesh, a data enthusiast who loves turning data into actionable insights. With a background strong background in data science and computer engineering, I enjoy tackling complex problems and finding innovative solutions.
