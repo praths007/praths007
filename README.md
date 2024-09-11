@@ -11,17 +11,15 @@ Welcome to my GitHub profile! I'm a data enthusiast who loves turning data into 
 - ⚡ Fun fact: I love video games
 
 ## Experience
-- Developed sales forecasting frameworks and causal discovery models
+- Developed sales forecasting framework and causal discovery models for simulations
 - Created model-agnostic tools for impact analysis
 - Devised customer cohorts using unsupervised learning
 - Developed LLM-based chatbots for KPI dashboards
-- Forecasted medical equipment rentals with high accuracy
 - Conducted Bayesian A/B testing to increase retention rates
-- Mentored team members and collaborated with cross-functional teams
 - Enhanced operational efficiency using LSTM networks
 - Developed text classification frameworks for finance
-- Forecasted sales using time series-based ensembles
 - Predicted device failures using tree-based ensembles
+- Mentored team on LookML and statistics; collaborated with VP-level stakeholders
 
 ## Skills
 ### Programming Languages
