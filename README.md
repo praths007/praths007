@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a data enthusiast who loves turning data into 
 - 💬 Feel free to ask me about Python, MLOps, GenAI and all things machine learning
 - 📫 Reach me at: [prathmesh.savale@utexas.edu](mailto:prathmesh.savale@utexas.edu)
 - ⚡ Fun fact: I love video games
+- [Resume]([https://praths007.github.io/assets/prathmesh_savale_resume.pdf)
 
 ## Experience
 - Developed sales forecasting framework and causal discovery models for simulations
