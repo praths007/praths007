@@ -3,7 +3,7 @@
 ## About Me
 Welcome to my GitHub profile! I'm a data enthusiast who loves turning data into actionable insights. With a strong background in data science and computer engineering, I enjoy tackling complex problems and finding innovative solutions.
 
-- 🔭 Currently at Walmart Global Tech as a Senior Data Scientist
+- 🔭 Currently at Visa Inc. as a Staff Data Scientist
 - 🌱 Always learning, currently diving deeper into advanced machine learning, GenAI and optimization
 - 👯 Open to collaborating on exciting data science and machine learning projects
 - 💬 Feel free to ask me about Python, MLOps, GenAI and all things machine learning
@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a data enthusiast who loves turning data into 
 - ⚡ [Resume](https://praths007.github.io/assets/prathmesh_savale_resume.pdf)
 
 ## Experience
+- Developed GraphRAG based conversational AI
 - Developed sales forecasting framework and causal discovery models for simulations
 - Created model-agnostic tools for impact analysis
 - Devised customer cohorts using unsupervised learning
